@@ -21,27 +21,40 @@ I firmly believe that **data drives the world**, transforming industries by enab
 - **Programming & Data Science**: `Python`, `SQL`, `Power BI`, `Pandas`, `Matplotlib`, `Scikit-Learn`
 - **Testing & Validation**: `LabVIEW`, `Dewesoft`, `INCA (ETAS)`, `GScan`, `CAN Ports`, `OBD-II`
 - **Machine Learning**: `Regression`, `Classification`, `Time Series Analysis`, `Clustering`
-- **Engineering & Automation**: `PLC Programming`, `Root Cause Analysis (RCA)`, `FMEA`, `Six Sigma`
+- **Engineering & Automation**: `PLC Programming`, `Root Cause Analysis (RCA)`, `FMEA`, `Six Sigma` , 
 - **Project Management**: `Lean Manufacturing`, `Kaizen`, `APQP`, `5S Methodologies`
-
+  
 
 ## 🛠 Tech Stack & Tools
 
-### **💻 Programming Languages**
+### **💻 Programming Languages **
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+
 
 ### **📊 Data Science & Machine Learning**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 ### **⚙️ Testing & Validation**
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFCB2D?style=for-the-badge&logo=labview&logoColor=black)
 ![Dewesoft](https://img.shields.io/badge/Dewesoft-FF6700?style=for-the-badge&logo=dewesoft&logoColor=white)
 ![ETAS INCA](https://img.shields.io/badge/ETAS%20INCA-0033A0?style=for-the-badge&logo=etas&logoColor=white)
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="50"/>
+
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
