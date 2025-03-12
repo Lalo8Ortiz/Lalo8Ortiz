@@ -73,6 +73,17 @@ I firmly believe that **data drives the world**, transforming industries by enab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalo8Ortiz&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalo8Ortiz&theme=github-dark" alt="GitHub Activity Graph"/>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lalo8Ortiz&style=flat-square&color=blue" alt="Profile Views" width="200">
+</p>
+                                                                          
+
 ---
 
 ## 📫 Contact Me  
