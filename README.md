@@ -60,22 +60,13 @@ I firmly believe that **data drives the world**, transforming industries by enab
 
 ## 📂 Featured Projects
 
-### 🔹 [Vehicle Market Value Prediction - Rusty Bargain](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb)
-- Developed ML models to predict used car prices using **Linear Regression, Random Forest, and LightGBM**.
-- Optimized hyperparameters and evaluated model performance using **RMSE**.
+### 🔹https://github.com/Lalo8Ortiz/Machine-Learning/tree/main
 
-### 🔹 [Taxi Demand Prediction - Sweet Lift Taxi]([https://github.com/Lalo8Ortiz/ProyectosTripletenDS](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/P.13%20Proyecto%20compa%C3%B1ia%20Rusty%20Bargain%20es%20un%20servicio%20de%20venta%20de%20coches%20de%20segunda%20mano%20.ipynb))
-- Built a predictive model to estimate **hourly taxi demand** and optimize resource allocation.
-- Applied **time series analysis** and validated models using **RMSE**.
+### 🔹https://github.com/Lalo8Ortiz/TT_Proyecto5
 
-### 🔹 [Oil Exploration Optimization - OilyGiant](https://github.com/Lalo8Ortiz/Machine-Learning/blob/main/%5BOilyGiant/oil_well_model.ipynb%5D(https:/github.com/Lalo8Ortiz/Machine-Learning/blob/main/P11_Extraccion_de_pozos_Aprendizaje_automatico.ipynb))
-- Developed a **linear regression model** to predict oil reserves and optimize well selection.
-- Applied **bootstrapping techniques** to assess risks and ensure profitability.
+### 🔹https://github.com/Lalo8Ortiz/-Data-Analysis
 
-### 🔹 🎬 Film Junky Union - Sentiment Analysis Model
-🔍 Training a machine learning model to automatically detect negative movie reviews from IMDB.
-
-Film Junky Union, a cutting-edge community for classic film enthusiasts, is developing a review filtering and categorization system. This project focuses on training a sentiment analysis model to classify movie reviews as positive or negative.
+### 🔹 
 
 ---
 
