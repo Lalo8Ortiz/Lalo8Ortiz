@@ -60,11 +60,15 @@ I firmly believe that **data drives the world**, transforming industries by enab
 
 ## 📂 Featured Projects
 
-### 🔹https://github.com/Lalo8Ortiz/Machine-Learning/tree/main
+### 🔹 [Machine Learning](https://github.com/Lalo8Ortiz/Machine-Learning/tree/main)  
+In this folder, you will find various projects where I practiced with different models of varying complexity.
 
-### 🔹https://github.com/Lalo8Ortiz/TT_Proyecto5
+### 🔹 [Exercise of API](https://github.com/Lalo8Ortiz/TT_Proyecto5)  
+Projects related to API exercises and implementation.
 
-### 🔹https://github.com/Lalo8Ortiz/-Data-Analysis
+### 🔹 [Files Data Analysis Overall](https://github.com/Lalo8Ortiz/-Data-Analysis)  
+A collection of data analysis projects covering multiple topics.
+
 
 ### 🔹 
 
