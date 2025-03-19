@@ -95,6 +95,9 @@ A collection of data analysis projects covering multiple topics.
 
 ---
 
+[![Mi Presentación] (https://img.youtube.com/vi/VIDEO_ID/0.jpg)]( https://youtu.be/9yxpw951o5A)
+
+
 ## 📫 Contact Me  
 💼 **LinkedIn:** [linkedin.com/in/eduardoortiz88](https://www.linkedin.com/in/eduardoortiz88/)  
 📧 **Email:** eduardo8ortiz@gmail.com  
