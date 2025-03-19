@@ -23,7 +23,12 @@ I firmly believe that **data drives the world**, transforming industries by enab
 - **Machine Learning**: `Regression`, `Classification`, `Time Series Analysis`, `Clustering`
 - **Engineering & Automation**: `PLC Programming`, `Root Cause Analysis (RCA)`, `FMEA`, `Six Sigma` , 
 - **Project Management**: `Lean Manufacturing`, `Kaizen`, `APQP`, `5S Methodologies`
-  
+
+[![My Presentation]
+(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
+
 
 ## 🛠 Tech Stack & Tools
 
@@ -95,7 +100,8 @@ A collection of data analysis projects covering multiple topics.
 
 ---
 
-[![Mi Presentación] (https://img.youtube.com/vi/VIDEO_ID/0.jpg)]( https://youtu.be/9yxpw951o5A)
+
+
 
 
 ## 📫 Contact Me  
