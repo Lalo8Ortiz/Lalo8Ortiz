@@ -24,8 +24,7 @@ I firmly believe that **data drives the world**, transforming industries by enab
 - **Engineering & Automation**: `PLC Programming`, `Root Cause Analysis (RCA)`, `FMEA`, `Six Sigma` , 
 - **Project Management**: `Lean Manufacturing`, `Kaizen`, `APQP`, `5S Methodologies`
 
-[![My Presentation]
-(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![My Presentation resume] (https://youtu.be/9yxpw951o5A)
 
 
 
