@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-# 🚀 Eduardo Ortiz | Data Engineer | Test Engineer | Data Science  
+# 🚀 Eduardo Ortiz | Data Engineer |Data Science  | Test Engineer
 
 **Mechatronics Engineer** with expertise in **vehicle testing, data analysis, and machine learning**. My career has been focused on the **validation of agricultural machinery, diesel engines, and automotive systems**, ensuring performance, reliability, and efficiency in real-world conditions.  
 
