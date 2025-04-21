@@ -74,7 +74,9 @@ Projects related to API exercises and implementation.
 A collection of data analysis projects covering multiple topics.
 
 
-### 🔹 
+### 🔹 [Failure Detection ]([Files Data Analysis Overall])
+This project focuses on building a machine learning model to predict industrial machine failures based on multivariate sensor readings. By leveraging supervised learning techniques, we aim to detect early warning signs of failure and support smarter maintenance decisions.
+
 
 ---
 
