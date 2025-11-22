@@ -19,7 +19,7 @@ I firmly believe that **data drives the world**, transforming industries by enab
 ## 🛠 Technical Skills
 
 - **Programming & Data Science**: `Python`, `SQL`, `Power BI`, `Pandas`, `Matplotlib`, `Scikit-Learn`
-- **Testing & Validation**: `LabVIEW`, `Dewesoft`, `INCA (ETAS)`, `GScan`, `CAN Ports`, `OBD-II`
+- **Testing & Validation**: `LabVIEW`, `Dewesoft`, `INCA (ETAS)`, `GScan`, `CAN Ports`, `OBD-II` ,`MATLAB`
 - **Machine Learning**: `Regression`, `Classification`, `Time Series Analysis`, `Clustering`
 - **Engineering & Automation**: `PLC Programming`, `Root Cause Analysis (RCA)`, `FMEA`, `Six Sigma` , 
 - **Project Management**: `Lean Manufacturing`, `Kaizen`, `APQP`, `5S Methodologies`
@@ -32,7 +32,7 @@ I firmly believe that **data drives the world**, transforming industries by enab
 ## 🛠 Tech Stack & Tools
 
 ### **💻 Programming Languages **
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737?style=for-the-badge&logo=matlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
