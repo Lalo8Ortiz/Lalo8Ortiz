@@ -1,11 +1,15 @@
 # 💫 About Me:
 
-# 🚀 Eduardo Ortiz | Data Engineer |Data Science  | Test Engineer
+# 🚀Eduardo Ortiz — Data & Test Engineer | Mechatronics | Autonomous & Heavy Machinery
+👨‍🔧 About Me
 
-**Mechatronics Engineer** with expertise in **vehicle testing, data analysis, and machine learning**. My career has been focused on the **validation of agricultural machinery, diesel engines, and automotive systems**, ensuring performance, reliability, and efficiency in real-world conditions.  
+I am a Mechatronics & Data/Test Engineer with hands‑on experience validating and improving performance of heavy machinery and powertrain systems. I have worked on dyno‑based engine validation, hydraulic & transmission testing, data acquisition, and reliability improvement.
 
-I firmly believe that **data drives the world**, transforming industries by enabling better decision-making, optimizing processes, and predicting failures before they happen. My passion lies in leveraging **data-driven insights** to enhance product development, improve operational efficiency, and drive innovation in engineering and technology.  
+I combine engineering field experience with data analysis, automation, and machine learning to improve efficiency, reduce failures, and enable smarter decision‑making.
 
+I have collaborated with global teams in the United States, India, Germany, and Latin America, delivering technical reports to leadership and supporting cross‑functional engineering groups.
+
+I am currently expanding my expertise in autonomy, real‑time systems, simulation and control, and cloud‑based analytics.
 ---
 
 ## 📌 About Me
@@ -14,6 +18,24 @@ I firmly believe that **data drives the world**, transforming industries by enab
 - 🏭 **Experience in vehicle testing, validation of agricultural machinery, and automotive systems**  
 - 🌍 Worked on **global projects with teams from Mexico, USA, and India**  
 - 🏆 Specialized in **fault detection, performance optimization, and predictive analytics**  
+
+🏢 Experience Summary
+Company	Role	Contribution
+John Deere	Test & Validation Engineer	Data-Driven Analyst ,Dyno testing, DAQ, performance analytics, technical training
+Parker Hannifin	Quality Process Intern	Scrap & error reduction, SPC & Six Sigma projects
+Hyundai Equipment / Test & Data analyst 	Analyst Product ,Product training & product readiness support
+
+🚀 Why I’m a Strong Fit
+
+Real field engineering + deep analytical capability
+
+Experience supporting autonomous & advanced systems
+
+Comfortable in high‑pressure and global technical environments
+
+Driven to keep learning and innovate
+
+**Open to relocation**
 
 
 ## 🛠 Technical Skills
@@ -24,6 +46,10 @@ I firmly believe that **data drives the world**, transforming industries by enab
 - **Engineering & Automation**: `PLC Programming`, `Root Cause Analysis (RCA)`, `FMEA`, `Six Sigma` , 
 - **Project Management**: `Lean Manufacturing`, `Kaizen`, `APQP`, `5S Methodologies`
 
+
+## Soft Skills
+
+Leadership • Technical communication • Cross‑functional teamwork • Training delivery • Problem solving • Global collaboration
 
 
 
