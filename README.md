@@ -12,7 +12,7 @@ I have collaborated with global teams in the United States, India, Germany, and 
 I am currently expanding my expertise in autonomy, real‑time systems, simulation and control, and cloud‑based analytics.
 ---
 
-## 📌 About Me
+## 📌 
 - 🎓 **Mechatronics Engineer** | Universidad Autónoma de Nuevo León (UANL)  
 - 🔬 Expertise in **Data Science, Machine Learning, Power BI, SQL, and Python**  
 - 🏭 **Experience in vehicle testing, validation of agricultural machinery, and automotive systems**  
