@@ -108,7 +108,7 @@ This project focuses on building a machine learning model to predict industrial 
 ## 📫 Contact Me  
 💼 **LinkedIn:** [linkedin.com/in/eduardoortiz88](https://www.linkedin.com/in/eduardoortiz88/)  
 📧 **Email:** eduardo8ortiz@gmail.com  
-🔗 **Portfolio:** *Coming soon*  
+🔗 **Portfolio:** (https://sites.google.com/view/mechatronics-to-data/inicio?authuser=1)
 
 ---
 
